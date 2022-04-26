@@ -35,9 +35,9 @@ You can also see my [portfolio](https://pooh5159.github.io/Portfolio/).
 
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=pooh5159) -->
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=pooh5159&theme=merko" alt="pooh5159" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=pooh5159&theme=merko" alt="pooh5159" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=pooh5159&theme=merko" alt="pooh5159" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=pooh5159&theme=merko" alt="pooh5159" /></p>
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=pooh5159&show_icons=true&locale=en&layout=compact&theme=merko" alt="pooh5159" /></p>
 
