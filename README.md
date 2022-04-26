@@ -43,7 +43,10 @@ You can also see my [portfolio](https://pooh5159.github.io/Portfolio/).
 
 <br/>
  
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=pooh5159&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=pooh5159&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true) 
+
+### View my history skyline
+[2021](https://skyline.github.com/Pooh5159/2021) [2022](https://skyline.github.com/Pooh5159/2022)
 
 ---
 
