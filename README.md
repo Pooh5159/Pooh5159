@@ -33,7 +33,7 @@ You can also see my [portfolio](https://pooh5159.github.io/Portfolio/).
 
 ## 📈 GitHub Stats 📊
 
-![](https://visitor-badge.glitch.me/badge?page_id=pooh5159)
+<!-- ![](https://visitor-badge.glitch.me/badge?page_id=pooh5159) !-->
 
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=pooh5159&theme=merko" alt="pooh5159" /></p>
 
