@@ -5,7 +5,7 @@
 
 Hi, I'm Pauline, a French designer, **learning to become a developer**. I'm here on GitHub to:
 - Share my personal projects
-- Share what i am learning
+- Share what i'm learning
 - Get inspiration and new ideas!
 
 You can see here [my repositories](https://github.com/Pooh5159?tab=repositories). Be indulgent, I'm a beginner 😊.
