@@ -17,19 +17,19 @@ You can also see my [portfolio](https://pooh5159.github.io/Portfolio/).
  
  ## 👅 Languages 💬
 
-![HTML5 badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3 badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![PHP badge](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![Bootstrap badge](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) 
+![HTML5 badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3 badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![SASS badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white) ![JavaScript badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![PHP badge](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![Bootstrap badge](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![NPM badge](	https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white) ![Next.js badge](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 ---
 
 ## 👩‍💻 Software 🖱️
 
-![VSCode badge](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![Id badge](https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=for-the-badge&logo=Adobe%20InDesign&logoColor=white) ![Ai badge](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![PS badge](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white) ![Figma badge](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![VSCode badge](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![Id badge](https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=for-the-badge&logo=Adobe%20InDesign&logoColor=white) ![Ai badge](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![PS badge](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white) ![Figma badge](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Notion badge](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
 ---
 
 ## 📫 How to contact me 📧
 
-[![Github badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pooh5159) [![LinkedIn badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pauline-pierson-2838a855/) [![Gmail badge](https://img.shields.io/badge/Mail-c5221f?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Pierson.Pauline@gmail.com)
+[![Github badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pooh5159) [![LinkedIn badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pauline-pierson-2838a855/) [![Gmail badge](https://img.shields.io/badge/Mail-c5221f?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@greensheep-creation.com)
 
  
 </details>
@@ -51,9 +51,6 @@ You can also see my [portfolio](https://pooh5159.github.io/Portfolio/).
 
 <br/>
  
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username={pooh5159}&theme={merko})
- (https://activity-graph.herokuapp.com/graph?username=pooh5159&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true) 
-
 ### View my history skyline
 [2021](https://skyline.github.com/Pooh5159/2021?annotation0=2021-10-18,2021-10-18,Arrived%20on%20GitHub%20%21) [2022](https://skyline.github.com/Pooh5159/2022?annotation0=2022-01-10,2022-01-10,Create%20my%20portfolio&annotation1=2022-01-31,2022-01-31,Create%20a%20test%20top%20button&annotation2=2022-01-18,2022-01-18,Create%20test%20slider%0ACreate%20test%20lightbox%0ACreate%20test%20slider%20%2B%20lightbox&annotation3=2022-01-26,2022-01-26,Create%20test%20contact&annotation4=2022-04-10,2022-04-10,Create%20Ran%20Pro%20Exercises%0ACreate%20Calculator&annotation5=2022-04-26,2022-04-26,Create%20TP%20Dev%20Exercises%0ACreate%20Readme)[2023](https://skyline.github.com/Pooh5159/2023)
 
