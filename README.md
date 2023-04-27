@@ -43,7 +43,7 @@ You can also see my [portfolio](https://pooh5159.github.io/Portfolio/).
 
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=pooh5159) !-->
  
-<p align="center">[![trophy](https://github-profile-trophy.vercel.app/?username=pooh5159&theme=onestar)](https://github.com/ryo-ma/github-profile-trophy)</p>
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=pooh5159&theme=onestar" /></p>
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=pooh5159&theme=merko" alt="pooh5159" /></p>
 
