@@ -42,14 +42,14 @@ You can also see my [portfolio](https://pooh5159.github.io/Portfolio/).
  <summary><h2>📈 GitHub Stats 📊</h2></summary>
 
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=pooh5159) !-->
+ 
+<p align="center">[![trophy](https://github-profile-trophy.vercel.app/?username=pooh5159&theme=onestar)](https://github.com/ryo-ma/github-profile-trophy)</p>
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=pooh5159&theme=merko" alt="pooh5159" /></p>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=pooh5159&theme=merko" alt="pooh5159" /></p>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=pooh5159&show_icons=true&locale=en&layout=compact&theme=merko" alt="pooh5159" /></p>
- 
- [![trophy](https://github-profile-trophy.vercel.app/?username=pooh5159&theme=onestar)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br/>
  
