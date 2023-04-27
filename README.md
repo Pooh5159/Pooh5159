@@ -95,8 +95,4 @@ You can also see my [portfolio](https://pooh5159.github.io/Portfolio/).
   <img src="https://readme-typing-svg.herokuapp.com?font=Permanent+Marker&size=30&duration=1500&color=01CD24&center=true&multiline=true&height=75&lines=Thanks+for+visiting!;+See+you+soon+!" alt="Typing SVG">
 </p>
 
-<div style="text-align: center;">
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Permanent+Marker&size=30&duration=1500&color=01CD24&center=true&multiline=true&height=75&lines=Thanks+for+visiting!;+See+you+soon+!)](https://git.io/typing-svg)
- </div>
-
 <!-- https://github.com/alexandresanlim/Badges4-README.md-Profile#-activity-graph- !-->
