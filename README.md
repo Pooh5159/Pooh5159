@@ -69,12 +69,14 @@ You can also see my [portfolio](https://pooh5159.github.io/Portfolio/).
 <br/>
  
 ### View my history skyline
-[2021](https://skyline.github.com/Pooh5159/2021?annotation0=2021-10-18,2021-10-18,Arrived%20on%20GitHub%20%21) [2022](https://skyline.github.com/Pooh5159/2022?annotation0=2022-01-10,2022-01-10,Create%20my%20portfolio&annotation1=2022-01-31,2022-01-31,Create%20a%20test%20top%20button&annotation2=2022-01-18,2022-01-18,Create%20test%20slider%0ACreate%20test%20lightbox%0ACreate%20test%20slider%20%2B%20lightbox&annotation3=2022-01-26,2022-01-26,Create%20test%20contact&annotation4=2022-04-10,2022-04-10,Create%20Ran%20Pro%20Exercises%0ACreate%20Calculator&annotation5=2022-04-26,2022-04-26,Create%20TP%20Dev%20Exercises%0ACreate%20Readme) [2023](https://skyline.github.com/Pooh5159/2023) 
+[2021](https://skyline.github.com/Pooh5159/2021?annotation0=2021-10-18,2021-10-18,Arrived%20on%20GitHub%20%21)
+[2022](https://skyline.github.com/Pooh5159/2022?annotation0=2022-01-10,2022-01-10,Create%20my%20portfolio&annotation1=2022-01-31,2022-01-31,Create%20a%20test%20top%20button&annotation2=2022-01-18,2022-01-18,Create%20test%20slider%0ACreate%20test%20lightbox%0ACreate%20test%20slider%20%2B%20lightbox&annotation3=2022-01-26,2022-01-26,Create%20test%20contact&annotation4=2022-04-10,2022-04-10,Create%20Ran%20Pro%20Exercises%0ACreate%20Calculator&annotation5=2022-04-26,2022-04-26,Create%20TP%20Dev%20Exercises%0ACreate%20Readme)
+[2023](https://skyline.github.com/Pooh5159/2023) 
 
 </details>
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Permanent+Marker&size=30&duration=1500&color=01CD24&center=true&multiline=true&height=75&lines=Thanks+for+visiting!;+See+you+soon+!)](https://git.io/typing-svg)
+<p align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Permanent+Marker&size=30&duration=1500&color=01CD24&center=true&multiline=true&height=75&lines=Thanks+for+visiting!;+See+you+soon+!)](https://git.io/typing-svg)</p>
 
 <!-- https://github.com/alexandresanlim/Badges4-README.md-Profile#-activity-graph- !-->
