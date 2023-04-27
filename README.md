@@ -50,12 +50,14 @@ You can also see my [portfolio](https://pooh5159.github.io/Portfolio/).
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=pooh5159&theme=merko" alt="pooh5159" /></p>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=pooh5159&show_icons=true&locale=en&layout=compact&theme=merko" alt="pooh5159" /></p>
+ 
+ <p align="center">	<img src="https://github.com/pooh5159/pooh5159/blob/main/github-metrics.svg" />
+</p>
 
 <br/>
  
 ### View my history skyline
-[2021](https://skyline.github.com/Pooh5159/2021?annotation0=2021-10-18,2021-10-18,Arrived%20on%20GitHub%20%21) [2022](https://skyline.github.com/Pooh5159/2022?annotation0=2022-01-10,2022-01-10,Create%20my%20portfolio&annotation1=2022-01-31,2022-01-31,Create%20a%20test%20top%20button&annotation2=2022-01-18,2022-01-18,Create%20test%20slider%0ACreate%20test%20lightbox%0ACreate%20test%20slider%20%2B%20lightbox&annotation3=2022-01-26,2022-01-26,Create%20test%20contact&annotation4=2022-04-10,2022-04-10,Create%20Ran%20Pro%20Exercises%0ACreate%20Calculator&annotation5=2022-04-26,2022-04-26,Create%20TP%20Dev%20Exercises%0ACreate%20Readme) [2023](https://skyline.github.com/Pooh5159/2023)
- 
+[2021](https://skyline.github.com/Pooh5159/2021?annotation0=2021-10-18,2021-10-18,Arrived%20on%20GitHub%20%21) [2022](https://skyline.github.com/Pooh5159/2022?annotation0=2022-01-10,2022-01-10,Create%20my%20portfolio&annotation1=2022-01-31,2022-01-31,Create%20a%20test%20top%20button&annotation2=2022-01-18,2022-01-18,Create%20test%20slider%0ACreate%20test%20lightbox%0ACreate%20test%20slider%20%2B%20lightbox&annotation3=2022-01-26,2022-01-26,Create%20test%20contact&annotation4=2022-04-10,2022-04-10,Create%20Ran%20Pro%20Exercises%0ACreate%20Calculator&annotation5=2022-04-26,2022-04-26,Create%20TP%20Dev%20Exercises%0ACreate%20Readme) [2023](https://skyline.github.com/Pooh5159/2023) 
 
 </details>
 
