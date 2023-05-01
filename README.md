@@ -53,6 +53,7 @@ You can also see my [portfolio](https://pooh5159.github.io/Portfolio/).
 ![PS badge](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white)
 ![Figma badge](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Notion badge](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+  ![Procreate badge](https://img.shields.io/badge/Procreate-161637?style=for-the-badge&logo=Procreate&logoColor=00e5ff)
 
 ---
 
